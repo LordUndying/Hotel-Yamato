@@ -4,8 +4,6 @@ A story-driven educational game about the **Hotel Yamato incident**, built in **
 
 On 19 September 1945, Indonesian youths in Surabaya tore the blue stripe off a Dutch flag raised on the Hotel Yamato, turning it into the Indonesian red-and-white. This was one of the events leading up to the Battle of Surabaya. The game lets players live through that story through a branching narrative instead of reading it from a textbook.
 
-<!-- Add 2–3 screenshots or a short GIF: upload them to a /docs folder, then add a line like ![Gameplay screenshot](docs/screenshot-1.png) here -->
-
 ## Features
 
 - **Branching story** built with Interactive Digital Narrative (IDN), where player choices shape how events unfold
@@ -25,7 +23,6 @@ The game was evaluated using the **Game User Experience Satisfaction Scale (GUES
 
 The research was published in **Santika**:
 *"Pengembangan Game Edukasi Insiden Hotel Yamato menggunakan Interactive Digital Narrative"*
-<!-- Add a link to the paper here if it is available online -->
 
 ## Bugs Found and Fixed
 
@@ -37,7 +34,6 @@ Both bugs were found during playtesting and fixed before the final evaluation.
 - **Expected:** The mini-game is only completed when the player performs the correct actions.
 - **Actual:** The mini-game completed regardless of what the player did.
 - **Severity:** High. Players could skip the challenge and the learning content inside it.
-- **Fix:** [Briefly describe what you changed]
 
 ### 2. Side-quest progress reset after leaving a building
 
@@ -45,7 +41,6 @@ Both bugs were found during playtesting and fixed before the final evaluation.
 - **Expected:** The side quest stays marked as completed.
 - **Actual:** The side quest was reset to not completed.
 - **Severity:** High. Players lost their progress.
-- **Fix:** [Briefly describe what you changed]
 
 ## How to Play
 
@@ -57,7 +52,6 @@ Both bugs were found during playtesting and fixed before the final evaluation.
 |---|---|
 | Move | [e.g. W A S D] |
 | Interact / Action | [e.g. E] |
-| Inventory | [e.g. I] |
 | Pause | [e.g. Esc] |
 
 ## Open the Project
